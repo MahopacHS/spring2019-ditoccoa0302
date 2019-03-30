@@ -1,9 +1,9 @@
 stephen.marquard@uct.ac.za
 louis@media.berkeley.edu
 zqian@umich.edu
-rjlowe@iupui.edu
+jlowe@iupui.edu
 zqian@umich.edu
-rjlowe@iupui.edu
+jlowe@iupui.edu
 cwen@iupui.edu
 cwen@iupui.edu
 gsilver@umich.edu
@@ -21,7 +21,7 @@ david.horwitz@uct.ac.za
 stephen.marquard@uct.ac.za
 louis@media.berkeley.edu
 louis@media.berkeley.edu
-ray@media.berkeley.edu
+ay@media.berkeley.edu
 cwen@iupui.edu
 cwen@iupui.edu
 cwen@iupui.edu
